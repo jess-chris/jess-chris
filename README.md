@@ -1,5 +1,11 @@
 # 💫 About Me:
-Easy going individual with a passion for programming and cyber security.<br><br>The desire to program really evolved when I was a teenager and had watched the movie Hackers, <br>and afterwards it was a “that’s what I want to do” scenario. Since then I wanted to learn everything <br>I could from programming and security, to various computer architectures.
+As a programming enthusiast with a keen interest in cybersecurity, I am passionate about exploring new technologies and expanding my knowledge. I discovered my passion for programming as a teenager after watching the movie Hackers, and I have been self-taught ever since. In addition to my self-taught skills, I have also taken Computer Science courses in college and completed a programming boot-camp to solidify my skills.
+
+My experience includes working with various systems, such as Linux and Unix distributions, as well as Windows platforms. I am proficient in JavaScript and Python for application development and have knowledge in C/C++, Bash, SQL, Networking, Security, and Reverse Engineering. I have recently completed four full-stack projects, including a Reddit clone that utilizes React/Redux with Python/Flask.
+
+In addition to my technical skills, I am an excellent communicator and a hardworking individual who thrives on focused tasks. I am comfortable working independently or in groups, and I always strive to create a positive work environment. I have a strong interest in machine learning, AI, and cloud computing, and I am always eager to learn more and collaborate with others.
+
+Feel free to reach out to me to connect or collaborate on new projects!
 
 
 ## 🌐 Socials:
